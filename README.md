@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E8TLH0X)
 # Wayback Machine Downloader
 
 [![Gem Version](https://badge.fury.io/rb/wayback_machine_downloader.svg)](https://rubygems.org/gems/wayback_machine_downloader/)
